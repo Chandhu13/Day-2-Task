@@ -1,0 +1,16 @@
+1.Difference between document and window object.?
+
+Document
+1.The Html document that gets loaded into Window is called Document object.
+2.It is property of window object that denotes the DOM document loaded in that window.
+3.Javascript can modify add and delete html elements.
+4.Document object has properties and methods.
+5.document.open()-creates a blank document within the window.
+
+Window Object-
+1.It is the outermost element of object hirerachy.
+2.It represents the browser window that contains content of the page.
+3.the window object contains window/tab containing dom document.
+4.Window object has both properties and methods.
+5.window.open() opens new tab/window.
+
